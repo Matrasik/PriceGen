@@ -1,0 +1,20 @@
+mode: set
+PriceGen/service/generator/generator.go:18.31,20.2 1 1
+PriceGen/service/generator/generator.go:22.31,24.2 1 1
+PriceGen/service/generator/generator.go:26.36,28.2 1 1
+PriceGen/service/generator/generator.go:30.34,32.2 1 1
+PriceGen/service/generator/generator.go:34.44,37.6 3 0
+PriceGen/service/generator/generator.go:37.6,38.26 1 0
+PriceGen/service/generator/generator.go:38.26,43.18 5 0
+PriceGen/service/generator/generator.go:44.18,45.5 1 0
+PriceGen/service/generator/generator.go:48.18,49.5 1 0
+PriceGen/service/generator/generator.go:52.18,53.5 1 0
+PriceGen/service/generator/generator.go:56.18,57.5 1 0
+PriceGen/service/generator/generator.go:60.18,61.5 1 0
+PriceGen/service/generator/generator.go:64.12,65.23 1 0
+PriceGen/service/generator/generator.go:45.5,47.6 1 0
+PriceGen/service/generator/generator.go:49.5,51.6 1 0
+PriceGen/service/generator/generator.go:53.5,55.6 1 0
+PriceGen/service/generator/generator.go:57.5,59.6 1 0
+PriceGen/service/generator/generator.go:61.5,63.6 1 0
+PriceGen/service/generator/generator.go:68.9,71.12 3 0
